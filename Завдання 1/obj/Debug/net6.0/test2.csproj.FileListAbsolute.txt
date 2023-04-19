@@ -1,0 +1,15 @@
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\bin\Debug\net6.0\test2.exe
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\bin\Debug\net6.0\test2.deps.json
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\bin\Debug\net6.0\test2.runtimeconfig.json
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\bin\Debug\net6.0\test2.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\bin\Debug\net6.0\test2.pdb
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.csproj.AssemblyReference.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.AssemblyInfoInputs.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.AssemblyInfo.cs
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.csproj.CoreCompileInputs.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\refint\test2.dll
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.pdb
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\test2.genruntimeconfig.cache
+E:\programming\project\Теорія алгоритмів\Лабораторна робота 5 (2 семестр)\test2\obj\Debug\net6.0\ref\test2.dll
